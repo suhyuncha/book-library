@@ -23,18 +23,31 @@ export default function App() {
         value={query}
         onChange={(e) => setQuery(e.target.value)}
       />
-      <ul className="space-y-3">
-        {filteredBooks.map((book, index) => (
-          <li key={index} className="p-4 border rounded shadow">
-            <p className="text-xl font-semibold">{book.title}</p>
-            <p className="text-sm text-gray-600">✍️ {book.author}</p>
-            <p className="text-sm text-gray-500">🏢 {book.publisher}</p>
-          </li>
-        ))}
-        {filteredBooks.length === 0 && (
-          <p className="text-gray-500">No books found.</p>
-        )}
-      </ul>
+      <table className="w-full border rounded mb-4">
+        <thead>
+          <tr className="bg-gray-100">
+            <th className="py-2 px-4 text-left">제목</th>
+            <th className="py-2 px-4 text-left">저자</th>
+            <th className="py-2 px-4 text-left">출판사</th>
+          </tr>
+        </thead>
+        <tbody>
+          {filteredBooks.map((book, index) => (
+            <tr key={index} className="border-t">
+              <td className="py-2 px-4">{book.title}</td>
+              <td className="py-2 px-4">{book.author}</td>
+              <td className="py-2 px-4">{book.publisher}</td>
+            </tr>
+          ))}
+          {filteredBooks.length === 0 && (
+            <tr>
+              <td colSpan={3} className="py-4 text-center text-gray-500">
+                No books found.
+              </td>
+            </tr>
+          )}
+        </tbody>
+      </table>
     </div>
   );
-} 
+}
