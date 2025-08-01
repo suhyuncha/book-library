@@ -2,91 +2,209 @@
   {
     "title": "Educated",
     "author": "Tara Westover",
-    "publisher": "Random House"
+    "publisher": "Random House",
+    "description": "서바이벌리스트 가정에서 자란 소녀가 17세에 처음 교실을 밟고 결국 케임브리지 대학에서 박사학위를 받기까지의 충격적인 회고록. 교육의 힘과 가족의 속박에서 벗어나는 과정을 그린 강력한 이야기입니다."
   },
   {
     "title": "Shoe Dog",
     "author": "Phil Knight",
-    "publisher": "Scribner"
+    "publisher": "Scribner",
+    "description": "나이키 공동창립자 필 나이트가 50달러를 빌려 시작한 회사가 글로벌 스포츠 브랜드로 성장하기까지의 여정을 담은 회고록. 창업의 어려움과 성공 뒤에 숨겨진 진짜 이야기를 솔직하게 들려줍니다."
   },
   {
     "title": "The Psychology of Money",
     "author": "Morgan Housel",
-    "publisher": "Harriman House"
+    "publisher": "Harriman House",
+    "description": "돈에 대한 사람들의 심리와 행동을 19개의 짧은 이야기로 풀어낸 책. 재정적 성공은 지식보다는 행동과 감정 조절에 달려있다는 통찰을 제공합니다."
   },
   {
     "title": "ZEALOT",
     "author": "Reza Aslan",
-    "publisher": "Random House"
+    "publisher": "Random House",
+    "description": "종교학자 레자 아슬란이 역사적 예수와 종교적 예수를 구분하여 분석한 논쟁적인 저작. 1세기 팔레스타인의 정치적 혼란 속에서 살았던 인간 예수의 모습을 추적합니다."
   },
   {
     "title": "The Finance Book",
     "author": "Stuart Warner, Si Hussain",
-    "publisher": "FT Publishing"
+    "publisher": "FT Publishing",
+    "description": "복잡한 금융 개념들을 명확하고 실용적으로 설명한 종합 가이드북. 재무제표 읽기부터 투자 전략까지 금융의 핵심 원리를 체계적으로 다룹니다."
   },
   {
     "title": "Thinking in Bets",
     "author": "Annie Duke",
-    "publisher": "Portfolio"
+    "publisher": "Portfolio",
+    "description": "전직 포커 챔피언이 전하는 불확실성 속에서 더 나은 결정을 내리는 방법. 결과가 아닌 과정에 집중하고, 확률적 사고로 판단력을 향상시키는 전략을 제시합니다."
   },
   {
     "title": "Analysing Companies",
     "author": "Bob Vause",
-    "publisher": "Profile Books"
+    "publisher": "Profile Books",
+    "description": "기업 분석의 핵심 도구와 기법을 체계적으로 정리한 실무서. 재무제표 분석부터 기업 가치 평가까지 투자자와 분석가를 위한 필수 지식을 담았습니다."
   },
   {
     "title": "Justice",
     "author": "Michael Sandel",
-    "publisher": "Farrar, Straus and Giroux"
+    "publisher": "Farrar, Straus and Giroux",
+    "description": "하버드대 마이클 샌델 교수의 유명한 정의론 강의를 책으로 엮은 작품. 현실적인 딜레마를 통해 공리주의, 자유주의, 공동체주의 등 다양한 정의관을 탐구합니다."
   },
   {
     "title": "Linchpin",
     "author": "Seth Godin",
-    "publisher": "Portfolio"
+    "publisher": "Portfolio",
+    "description": "마케팅 구루 세스 고딘이 제시하는 조직에서 없어서는 안 될 핵심 인재가 되는 방법. 예술적 사고와 창의성으로 자신만의 독특한 가치를 만들어내는 전략을 담았습니다."
   },
   {
     "title": "Tools of Titans",
     "author": "Tim Ferriss",
-    "publisher": "Houghton Mifflin Harcourt"
+    "publisher": "Houghton Mifflin Harcourt",
+    "description": "팀 페리스가 각 분야 최고 성취자들과의 인터뷰에서 얻은 생산성, 건강, 부 축적의 비법들을 정리한 실용서. 성공한 사람들의 일상 습관과 사고법을 체계적으로 분석합니다."
   },
   {
     "title": "Limitless",
     "author": "Jim Kwik",
-    "publisher": "Hay House"
+    "publisher": "Hay House",
+    "description": "뇌 코치 짐 퀵이 알려주는 학습능력과 기억력을 극대화하는 방법. 뇌의 잠재력을 깨우고 빠르게 학습하며 정보를 효과적으로 기억하는 실용적 기법들을 제시합니다."
   },
   {
     "title": "Project Hail Mary",
     "author": "Andy Weir",
-    "publisher": "Ballantine Books"
+    "publisher": "Ballantine Books",
+    "description": "화성구조대 작가 앤디 위어의 최신 SF소설. 기억을 잃은 채 홀로 우주선에서 깨어난 주인공이 인류를 구하기 위한 미션을 수행하는 과학적 모험 이야기입니다."
   },
   {
     "title": "Atomic Habits",
     "author": "James Clear",
-    "publisher": "Avery"
+    "publisher": "Avery",
+    "description": "작은 습관의 놀라운 힘을 과학적으로 증명한 베스트셀러. 1%의 개선이 어떻게 놀라운 변화를 만들어내는지, 좋은 습관을 만들고 나쁜 습관을 끊는 체계적인 방법을 제시합니다."
   },
   {
     "title": "The First 90 Days",
     "author": "Michael Watkins",
-    "publisher": "Harvard Business Review Press"
+    "publisher": "Harvard Business Review Press",
+    "description": "새로운 직장이나 역할에서 처음 90일을 성공적으로 보내는 전략을 담은 리더십 가이드. 빠른 적응과 조기 성과 창출을 위한 실용적인 로드맵을 제공합니다."
   },
   {
     "title": "Narrative Economics",
     "author": "Robert J. Shiller",
-    "publisher": "Princeton University Press"
+    "publisher": "Princeton University Press",
+    "description": "노벨경제학상 수상자 로버트 쉴러가 제시하는 경제를 움직이는 스토리의 힘. 경제 현상을 이해하기 위해서는 숫자뿐만 아니라 사람들이 믿는 이야기를 분석해야 한다고 주장합니다."
   },
   {
     "title": "Tim Cook",
     "author": "Leander Kahney",
-    "publisher": "Portfolio"
+    "publisher": "Portfolio",
+    "description": "애플의 CEO 팀 쿡의 리더십과 경영 철학을 심층 분석한 전기. 스티브 잡스 이후 애플을 이끌며 회사를 새로운 차원으로 발전시킨 그의 전략과 가치관을 조명합니다."
   },
   {
     "title": "The Ten-Day MBA",
     "author": "Steven Silbiger",
-    "publisher": "William Morrow"
+    "publisher": "William Morrow",
+    "description": "MBA 교육과정의 핵심 내용을 10일만에 익힐 수 있도록 압축한 경영학 입문서. 마케팅, 재무, 회계, 전략 등 비즈니스의 필수 지식을 효율적으로 학습할 수 있습니다."
   },
   {
     "title": "Business Model Generation",
     "author": "Alexander Osterwalder, Yves Pigneur",
-    "publisher": "Wiley"
+    "publisher": "Wiley",
+    "description": "비즈니스 모델 캔버스로 유명한 알렉산더 오스터왈더의 대표작. 혁신적인 비즈니스 모델을 설계하고 기존 모델을 개선하는 체계적인 방법론을 시각적으로 제시합니다."
+  },
+  {
+    "title": "아침 기분이 결정한다",
+    "author": null,
+    "publisher": null
+  },
+  {
+    "title": "이법의 세계",
+    "author": null,
+    "publisher": null
+  },
+  {
+    "title": "임플로이",
+    "author": null,
+    "publisher": null
+  },
+  {
+    "title": "타인의 고통",
+    "author": null,
+    "publisher": null
+  },
+  {
+    "title": "다시 쓰는 지적 대화를 위한 넓고 얕은 지식",
+    "author": "채사장",
+    "publisher": "웨일북"
+  },
+  {
+    "title": "직장인을 위한 실전 독서법",
+    "author": null,
+    "publisher": null
+  },
+  {
+    "title": "말센스",
+    "author": "셀레스트 헤들리",
+    "publisher": "스몰빅라이프"
+  },
+  {
+    "title": "시작의 기술",
+    "author": "개리 비숍",
+    "publisher": "웅진지식하우스"
+  },
+  {
+    "title": "돈의 심리학",
+    "author": "모건 하우절",
+    "publisher": "인플루엔셜"
+  },
+  {
+    "title": "불편한 편의점",
+    "author": "김호연",
+    "publisher": "나무옆의자"
+  },
+  {
+    "title": "불편한 편의점 2",
+    "author": "김호연",
+    "publisher": "나무옆의자"
+  },
+  {
+    "title": "설민석의 한국사 대모험",
+    "author": "설민석",
+    "publisher": "아이휴먼"
+  },
+  {
+    "title": "개발자 원칙",
+    "author": null,
+    "publisher": null
+  },
+  {
+    "title": "실용주의 프로그래머",
+    "author": null,
+    "publisher": "인사이트"
+  },
+  {
+    "title": "테스트 주도 개발",
+    "author": "켄트 벡",
+    "publisher": "피어슨"
+  },
+  {
+    "title": "독서 천재가 된 홍대리",
+    "author": "이지성",
+    "publisher": "다산북스"
+  },
+  {
+    "title": "코드 브레이커",
+    "author": "월터 아이작슨",
+    "publisher": "21세기북스"
+  },
+  {
+    "title": "CFO 경영노트",
+    "author": null,
+    "publisher": null
+  },
+  {
+    "title": "에센스 M&A",
+    "author": null,
+    "publisher": "박문각"
+  },
+  {
+    "title": "100 Ideas That Changed Fashion (패션 아이디어 100)",
+    "author": null,
+    "publisher": "동양북스"
   }
 ]
