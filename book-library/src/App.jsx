@@ -29,6 +29,7 @@ export default function App() {
             <th className="py-2 px-4 text-left">제목</th>
             <th className="py-2 px-4 text-left">저자</th>
             <th className="py-2 px-4 text-left">출판사</th>
+            <th className="py-2 px-4 text-left">설명</th> {/* 설명 열 추가 */}
           </tr>
         </thead>
         <tbody>
@@ -37,11 +38,12 @@ export default function App() {
               <td className="py-2 px-4">{book.title}</td>
               <td className="py-2 px-4">{book.author}</td>
               <td className="py-2 px-4">{book.publisher}</td>
+              <td className="py-2 px-4">{book.description}</td> {/* 설명 값 출력 */}
             </tr>
           ))}
           {filteredBooks.length === 0 && (
             <tr>
-              <td colSpan={3} className="py-4 text-center text-gray-500">
+              <td colSpan={4} className="py-4 text-center text-gray-500">
                 No books found.
               </td>
             </tr>
