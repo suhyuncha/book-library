@@ -1,5 +1,119 @@
 [
   {
+    "title": "How the World Really Works",
+    "author": "Vaclav Smil",
+    "publisher": "Viking (Penguin Books)",
+    "description": "현대 세계를 움직이는 근본적인 시스템들을 과학적 관점에서 분석한 베스트셀러. 에너지, 식량, 재료, 글로벌화 등 현실을 이해하기 위한 필수 지식을 제공합니다."
+  },
+  {
+    "title": "일의 격",
+    "author": "신수정",
+    "publisher": "턴어라운드",
+    "description": "KT 부사장 신수정이 페이스북에서 일과 삶에 대한 통찰로 수많은 직업인들에게 공감을 받은 글들을 모은 책. 성장하는 개인, 성공하는 조직, 성숙한 삶을 위한 실무 경험과 철학을 담았습니다."
+  },
+  {
+    "title": "타이탄의 도구들",
+    "author": "팀 페리스",
+    "publisher": "토네이도",
+    "description": "각 분야 최고 성취자들과의 인터뷰에서 얻은 생산성, 건강, 부 축적의 비법들을 정리한 실용서. 성공한 사람들의 일상 습관과 사고법을 체계적으로 분석한 전 세계 밀리언셀러입니다."
+  },
+  {
+    "title": "유럽도시기행2",
+    "author": "유시민",
+    "publisher": "생각의길",
+    "description": "정치학자이자 작가 유시민이 유럽 도시들을 여행하며 느낀 역사와 문화에 대한 성찰을 담은 기행문. 도시의 건축과 거리에서 발견한 유럽 문명의 깊이와 의미를 생생하게 전달합니다."
+  },
+  {
+    "title": "어디서 살 것인가",
+    "author": "유현준",
+    "publisher": "을유문화사",
+    "description": "건축가 유현준이 공간과 인간의 관계를 탐구한 건축 인문학서. 우리가 사는 공간이 어떻게 우리의 삶과 행동에 영향을 미치는지, 좋은 공간이란 무엇인지에 대한 통찰을 제공합니다."
+  },
+  {
+    "title": "이별",
+    "author": "밀란 쿤데라",
+    "publisher": "민음사",
+    "description": "체코 출신 작가 밀란 쿤데라의 대표작 중 하나로, 사랑과 이별을 통해 인간의 실존적 상황을 탐구한 철학적 소설. 시간과 공간 속에 놓인 우리의 삶을 마치 모자이크처럼 정교하게 수놓으며 현대인의 복잡한 감정을 그려냅니다."
+  },
+  {
+    "title": "압록강은 흐른다",
+    "author": "이미륵",
+    "publisher": "살림",
+    "description": "1946년 독일에서 독일어로 발표된 자전적 성장소설. 구한말 격동기에 태어난 소년이 일제강점기를 거쳐 독일까지 흘러들어가며 겪는 성장 과정을 소박하게 그린 작품입니다."
+  },
+  {
+    "title": "아픔이 길이 되려면",
+    "author": "김승섭",
+    "publisher": "동아시아",
+    "description": "사회역학자가 데이터로 밝혀낸 질병의 사회적 원인에 관한 책. 혐오, 차별, 고용불안 등 사회적 상처가 어떻게 우리 몸을 병들게 하는지 분석하며, 건강 불평등 해결을 위한 사회적 해법을 제시합니다."
+  },
+  {
+    "title": "DiGA VADEMECUM",
+    "author": "Jan B. Brönneke, Jörg F. Debatin, Julia Hagen, Philipp Kircher, Henrik Matthies",
+    "publisher": "MWV Medizinisch Wissenschaftliche Verlagsgesellschaft",
+    "description": "독일 의료시스템에서 디지털 헬스 앱을 출시하는 방법을 다룬 전문서. 디지털 건강 애플리케이션(DiGA) 개발부터 승인, 성공적인 제품 출시까지의 전 과정을 안내합니다."
+  },
+  {
+    "title": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "publisher": "Random House",
+    "description": "혼돈의 세상에서 의미 있는 삶을 살기 위한 12가지 심오하고 실용적인 원칙을 제시하는 책. 개인의 책임과 의미 추구에 대한 강력한 메시지로 전 세계적으로 큰 반향을 일으켰습니다."
+  },
+  {
+    "title": "ZEALOT",
+    "author": "Reza Aslan",
+    "publisher": "Random House",
+    "description": "종교학자 레자 아슬란이 역사적 예수와 종교적 예수를 구분하여 분석한 논쟁적인 저작. 1세기 팔레스타인의 정치적 혼란 속에서 살았던 인간 예수의 모습을 추적합니다."
+  },
+  {
+    "title": "SHOE DOG",
+    "author": "Phil Knight",
+    "publisher": "Scribner",
+    "description": "나이키 공동창립자 필 나이트가 50달러를 빌려 시작한 회사가 글로벌 스포츠 브랜드로 성장하기까지의 여정을 담은 회고록. 창업의 어려움과 성공 뒤에 숨겨진 진짜 이야기를 솔직하게 들려줍니다."
+  },
+  {
+    "title": "지구 온난화에 관한 작은 책",
+    "author": "미상",
+    "publisher": "미상",
+    "description": "기후 변화와 지구 온난화 문제를 다룬 환경 관련 서적. 복잡한 환경 이슈를 일반인도 이해하기 쉽게 설명한 입문서로 추정됩니다."
+  },
+  {
+    "title": "MICHAEL CRICHTON",
+    "author": "Michael Crichton",
+    "publisher": "미상",
+    "description": "쥬라기 공원의 작가 마이클 크라이튼의 작품. 과학적 지식을 바탕으로 한 스릴러 소설로, 첨단 기술이 가져올 수 있는 위험성을 탐구합니다."
+  },
+  {
+    "title": "서른의 리더십",
+    "author": "미상",
+    "publisher": "미상",
+    "description": "30대 직장인을 위한 리더십 가이드북. 젊은 리더가 조직에서 성공하기 위해 필요한 리더십 스킬과 마인드셋을 제시합니다."
+  },
+  {
+    "title": "PITCH ANYTHING",
+    "author": "Oren Klaff",
+    "publisher": "McGraw-Hill",
+    "description": "신경과학과 행동심리학을 바탕으로 한 혁신적인 프레젠테이션 방법론을 제시하는 책. 상대방을 설득하고 거래를 성사시키는 효과적인 피칭 기법을 다룹니다."
+  },
+  {
+    "title": "THE DOMINO EFFECT",
+    "author": "미상",
+    "publisher": "미상",
+    "description": "도미노 효과를 통해 개인과 조직의 변화와 성장을 다룬 자기계발서. 작은 변화가 어떻게 큰 결과를 만들어내는지에 대한 통찰을 제공합니다."
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "publisher": "Harriman House",
+    "description": "돈에 대한 사람들의 심리와 행동을 19개의 짧은 이야기로 풀어낸 책. 재정적 성공은 지식보다는 행동과 감정 조절에 달려있다는 통찰을 제공합니다."
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "publisher": "Random House",
+    "description": "서바이벌리스트 가정에서 자란 소녀가 17세에 처음 교실을 밟고 결국 케임브리지 대학에서 박사학위를 받기까지의 충격적인 회고록. 교육의 힘과 가족의 속박에서 벗어나는 과정을 그린 강력한 이야기입니다."
+  },
+  {
     "title": "Educated",
     "author": "Tara Westover",
     "publisher": "Random House",
