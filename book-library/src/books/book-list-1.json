@@ -1,0 +1,86 @@
+[
+  {
+    "title": "NCS 유압제어",
+    "author": "신흥열",
+    "publisher": "미상",
+    "description": "NCS(국가직무능력표준) 기반의 유압 제어 기술에 대한 전문 서적으로 보입니다.",
+    "language": "kr"
+  },
+  {
+    "title": "Logic in Computer Science Second Edition",
+    "author": "Michael Huth, Mark Ryan",
+    "publisher": "Cambridge",
+    "description": "컴퓨터 과학 분야에서 논리의 기본 원리와 응용을 다루는 교재의 제2판입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Introduction to the Theory of Computation",
+    "author": "Michael Sipser",
+    "publisher": "Cengage Learning",
+    "description": "컴퓨터 과학의 이론적 기초인 계산 이론을 소개하는 입문서입니다.",
+    "language": "en"
+  },
+  {
+    "title": "MATERIAL HANDLING SYSTEMS DESIGN",
+    "author": "James M. Apple",
+    "publisher": "Ronald Press",
+    "description": "물류 및 생산 시스템에서 자재 취급 시스템의 설계 원리와 방법을 다루는 전문 서적입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Software testing",
+    "author": "Stephan Brown",
+    "publisher": "미상",
+    "description": "소프트웨어 테스트의 원리와 기법을 다루는 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Formal Specification and Verification of Automated Production Systems",
+    "author": "A. Weigl",
+    "publisher": "Springer",
+    "description": "자동화된 생산 시스템의 정형 명세 및 검증에 대한 이론과 실제를 탐구하는 학술 서적입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Managed Software Evolution",
+    "author": "Reussner 외 Ed.",
+    "publisher": "Springer",
+    "description": "소프트웨어의 지속적인 진화와 관리를 위한 방법론 및 전략을 다루는 전문 서적입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Die Düsseldorfer Malerschule",
+    "author": "미상",
+    "publisher": "NZ",
+    "description": "19세기 독일 뒤셀도르프 지역에서 번성했던 미술 사조인 뒤셀도르프 화파에 대한 책입니다.",
+    "language": "de"
+  },
+  {
+    "title": "THE ART OF SOFTWARE TESTING",
+    "author": "Glenford J. Myers",
+    "publisher": "Wiley",
+    "description": "소프트웨어 테스트의 원리와 실천 방법을 다루는 고전적인 서적으로, 효과적인 테스트 전략을 제시합니다.",
+    "language": "en"
+  },
+  {
+    "title": "SHARING THE WORK",
+    "author": "MYRA STROBER",
+    "publisher": "Stanford University Press",
+    "description": "일과 삶의 균형, 그리고 노동 분배에 대한 사회경제학적 분석을 담은 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "ALLGEMEIN-BILDUNG",
+    "author": "미상",
+    "publisher": "Bertelsmann Lexikon Institut",
+    "description": "일반적인 교양 지식을 다루는 독일어 서적으로, 다양한 분야의 필수 정보를 제공합니다.",
+    "language": "de"
+  },
+  {
+    "title": "Business Model Generation",
+    "author": "Alexander Osterwalder, Yves Pigneur",
+    "publisher": "Wiley",
+    "description": "혁신적인 비즈니스 모델을 설계하고 기존 모델을 개선하는 체계적인 방법론을 시각적으로 제시하는 책입니다.",
+    "language": "en"
+  }
+]

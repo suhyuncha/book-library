@@ -1,0 +1,850 @@
+[
+  {
+    "title": "건원단백원 제2판",
+    "author": "미상",
+    "publisher": "미상",
+    "description": "생명공학 또는 식품과학 분야의 전문 서적으로 추정되며, 단백질과 관련된 내용을 다루는 2판입니다.",
+    "language": "kr"
+  },
+  {
+    "title": "NCS 유압제어",
+    "author": "신흥열",
+    "publisher": "미상",
+    "description": "NCS(국가직무능력표준) 기반의 유압 제어 기술에 대한 전문 서적으로 보입니다.",
+    "language": "kr"
+  },
+  {
+    "title": "Logic in Computer Science Second Edition",
+    "author": "Michael Huth, Mark Ryan",
+    "publisher": "Cambridge",
+    "description": "컴퓨터 과학 분야에서 논리의 기본 원리와 응용을 다루는 교재의 제2판입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Introduction to the Theory of Computation",
+    "author": "Michael Sipser",
+    "publisher": "Cengage Learning",
+    "description": "컴퓨터 과학의 이론적 기초인 계산 이론을 소개하는 입문서입니다.",
+    "language": "en"
+  },
+  {
+    "title": "MATERIAL HANDLING SYSTEMS DESIGN",
+    "author": "James M. Apple",
+    "publisher": "Ronald Press",
+    "description": "물류 및 생산 시스템에서 자재 취급 시스템의 설계 원리와 방법을 다루는 전문 서적입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Software Testing",
+    "author": "Stephan Brown",
+    "publisher": "미상",
+    "description": "소프트웨어 테스트의 원리와 기법을 다루는 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Formal Specification and Verification of Automated Production Systems",
+    "author": "A. Weigl",
+    "publisher": "Springer",
+    "description": "자동화된 생산 시스템의 정형 명세 및 검증에 대한 이론과 실제를 탐구하는 학술 서적입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Managed Software Evolution",
+    "author": "Reussner 외 Ed.",
+    "publisher": "Springer",
+    "description": "소프트웨어의 지속적인 진화와 관리를 위한 방법론 및 전략을 다루는 전문 서적입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Die Düsseldorfer Malerschule",
+    "author": "미상",
+    "publisher": "NZ",
+    "description": "19세기 독일 뒤셀도르프 지역에서 번성했던 미술 사조인 뒤셀도르프 화파에 대한 책입니다.",
+    "language": "de"
+  },
+  {
+    "title": "THE ART OF SOFTWARE TESTING",
+    "author": "Glenford J. Myers",
+    "publisher": "Wiley",
+    "description": "소프트웨어 테스트의 원리와 실천 방법을 다루는 고전적인 서적으로, 효과적인 테스트 전략을 제시합니다.",
+    "language": "en"
+  },
+  {
+    "title": "SHARING THE WORK",
+    "author": "MYRA STROBER",
+    "publisher": "Stanford University Press",
+    "description": "일과 삶의 균형, 그리고 노동 분배에 대한 사회경제학적 분석을 담은 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "ALLGEMEIN-BILDUNG",
+    "author": "미상",
+    "publisher": "Bertelsmann Lexikon Institut",
+    "description": "일반적인 교양 지식을 다루는 독일어 서적으로, 다양한 분야의 필수 정보를 제공합니다.",
+    "language": "de"
+  },
+  {
+    "title": "Business Model Generation",
+    "author": "Alexander Osterwalder, Yves Pigneur",
+    "publisher": "Wiley",
+    "description": "혁신적인 비즈니스 모델을 설계하고 기존 모델을 개선하는 체계적인 방법론을 시각적으로 제시하는 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Reise um die Erde in 80 Tagen",
+    "author": "Jules Verne",
+    "publisher": "Kinderbuch-Klassiker",
+    "description": "쥘 베른의 고전 소설 '80일간의 세계일주'의 독일어판으로, 포그 씨와 파스파르투가 지구를 일주하는 모험 이야기입니다.",
+    "language": "de"
+  },
+  {
+    "title": "Komm mit nach Paris",
+    "author": "미상",
+    "publisher": "Lonely Planet Kids",
+    "description": "파리 여행에 대한 내용으로 추정되는 책입니다.",
+    "language": "de"
+  },
+  {
+    "title": "DESIGN! EXIKOM SKANDINAVIEN",
+    "author": "미상",
+    "publisher": "Dumont",
+    "description": "스칸디나비아 디자인에 대한 책으로, 디자인 트렌드나 역사 등을 다룰 것으로 보입니다.",
+    "language": "de"
+  },
+  {
+    "title": "STAR WARS EPISODE III",
+    "author": "Matthew Stover",
+    "publisher": "Blanvalet",
+    "description": "스타워즈 에피소드 3 '시스의 복수' 소설판입니다.",
+    "language": "en"
+  },
+  {
+    "title": "ROBIN HOOD",
+    "author": "Howard Pyle",
+    "publisher": "Arena",
+    "description": "영국의 전설적인 영웅 로빈 후드 이야기를 다룬 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "STAR WARS JEDI ACADEMY RETURN OF THE PADAWAN",
+    "author": "Jeffrey Brown",
+    "publisher": "Scholastic Inc.",
+    "description": "제다이 아카데미에서의 두 번째 해를 맞이하는 로안 노바체즈의 이야기를 담은 그래픽 노블입니다. 중학교 생활의 유머, 어색함, 즐거움, 좌절 등을 로안의 코믹, 일기 형식으로 풀어냅니다.",
+    "language": "en"
+  },
+  {
+    "title": "STAR WARS JEDI ACADEMY",
+    "author": "Jeffrey Brown",
+    "publisher": "Scholastic Inc.",
+    "description": "제다이 아카데미에서의 첫해를 보내는 로안 노바체즈의 이야기를 다룬 그래픽 노블입니다. 평범한 중학생의 삶과 제다이 훈련이 결합된 독특한 이야기가 특징입니다.",
+    "language": "en"
+  },
+  {
+    "title": "GRUSELGESCHICHTEN",
+    "author": "Lustiges Taschenbuch",
+    "publisher": "미상",
+    "description": "독일어로 된 공포 이야기 모음집입니다.",
+    "language": "de"
+  },
+  {
+    "title": "Five Nights at Freddy's The Fourth Closet",
+    "author": "Scott Cawthon, Kira Breed-Wrisley",
+    "publisher": "Scholastic",
+    "description": "인기 게임 '프레디의 피자가게'를 기반으로 한 소설 시리즈의 네 번째 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "BRAILLIER & HOLGATE The Last Kids on Earth and the Cosmic Beyond",
+    "author": "Max Brallier, Douglas Holgate",
+    "publisher": "미상",
+    "description": "아포칼립스 세계에서 아이들이 생존하는 이야기를 다룬 '세상의 마지막 아이들' 시리즈 중 하나입니다.",
+    "language": "en"
+  },
+  {
+    "title": "BRAILLIER & HOLGATE The Last Kids on Earth and the Zombie Parade",
+    "author": "Max Brallier, Douglas Holgate",
+    "publisher": "미상",
+    "description": "아포칼립스 세계에서 아이들이 생존하는 이야기를 다룬 '세상의 마지막 아이들' 시리즈 중 하나입니다.",
+    "language": "en"
+  },
+  {
+    "title": "BRAILLIER & HOLGATE The Last Kids on Earth and the Nightmare King",
+    "author": "Max Brallier, Douglas Holgate",
+    "publisher": "미상",
+    "description": "아포칼립스 세계에서 아이들이 생존하는 이야기를 다룬 '세상의 마지막 아이들' 시리즈 중 하나입니다.",
+    "language": "en"
+  },
+  {
+    "title": "BRAILLIER & HOLGATE The Last Kids on Earth",
+    "author": "Max Brallier, Douglas Holgate",
+    "publisher": "미상",
+    "description": "아포칼립스 세계에서 아이들이 생존하는 이야기를 다룬 '세상의 마지막 아이들' 시리즈의 첫 번째 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Die Kackophonie beginnt in deinem Gehirn",
+    "author": "미상",
+    "publisher": "미상",
+    "description": "뇌의 작용에 대한 흥미로운 사실을 다룬 독일어 과학 교양서적으로 추정됩니다.",
+    "language": "de"
+  },
+  {
+    "title": "BLOOM1",
+    "author": "Kenneth Oppel",
+    "publisher": "Gulliver",
+    "description": "케네스 오펠의 소설 '블룸'으로, 식물 관련 미스터리나 모험을 다룰 수 있습니다.",
+    "language": "en"
+  },
+  {
+    "title": "BLOOM2",
+    "author": "Kenneth Oppel",
+    "publisher": "Gulliver",
+    "description": "케네스 오펠의 소설 '블룸'의 다른 권이나 동일 제목의 다른 책으로 추정됩니다.",
+    "language": "en"
+  },
+    {
+    "title": "Harry Potter und die Kammer des Schreckens",
+    "author": "Joanne K. Rowling",
+    "publisher": "Carlsen Verlag",
+    "description": "해리 포터 시리즈의 두 번째 책으로, 호그와트에서의 두 번째 학년에서 해리와 친구들이 비밀의 방에 얽힌 미스터리와 마주하며 벌어지는 모험을 다룹니다.",
+    "language": "de"
+  },
+  {
+    "title": "Deutsch Bild für Bild",
+    "author": "미상",
+    "publisher": "Langenscheidt",
+    "description": "그림을 통해 독일어를 학습하는 시각적 사전 또는 학습서로 추정됩니다.",
+    "language": "de"
+  },
+  {
+    "title": "Barcelona",
+    "author": "DK Eyewitness Travel",
+    "publisher": "DK",
+    "description": "DK Eyewitness Travel에서 출판한 바르셀로나 여행 가이드북으로 추정됩니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Souvenir Book",
+    "author": "미상",
+    "publisher": "미상",
+    "description": "바르셀로나의 기념품 책 또는 사진집으로 추정됩니다.",
+    "language": "en"
+  },
+  {
+    "title": "TOP 10 PROVENCE & THE CÔTE D'AZUR",
+    "author": "DK Eyewitness Travel",
+    "publisher": "DK",
+    "description": "DK Eyewitness Travel에서 출판한 프로방스 및 코트다쥐르 지역의 TOP 10 여행 가이드북입니다.",
+    "language": "en"
+  },
+  {
+    "title": "ZINN & THE ART OF MOUNTAIN BIKE MAINTENANCE",
+    "author": "Lennard Zinn",
+    "publisher": "VeloPress",
+    "description": "산악 자전거 유지보수에 대한 가이드북으로, 자전거 정비 및 관리 기술을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "최고의 당뇨병 식사가이드",
+    "author": "차봉수",
+    "publisher": "비타북스",
+    "description": "당뇨병 환자를 위한 건강한 식단과 올바른 식생활 습관, 조리법을 제시하는 가이드북입니다.",
+    "language": "kr"
+  },
+  {
+    "title": "스케치 쉽게 하기: 일러스트 드로잉",
+    "author": "김충원",
+    "publisher": "진선북스",
+    "description": "일러스트 드로잉의 기초부터 응용까지 다루며, 사람과 동물 일러스트의 기본적인 스타일과 자신만의 개성을 표현하는 방법을 알려주는 책입니다.",
+    "language": "kr"
+  },
+  {
+    "title": "그림멘토 버트 도드슨의 드로잉 수업",
+    "author": "버트 도드슨",
+    "publisher": "미디어샘",
+    "description": "세계적인 일러스트레이터이자 화가인 버트 도드슨이 드로잉 용어, 빛과 형태, 구도와 원근법 등 다양한 기법과 요령을 친근하게 알려주는 안내서입니다.",
+    "language": "kr"
+  },
+  {
+    "title": "Propeller-Opa",
+    "author": "David Walliams",
+    "publisher": "ROWOHLT Taschenbuch",
+    "description": "데이비드 월리엄스의 아동 소설로, 유명한 파일럿이었던 할아버지와 손자가 양로원을 탈출하려는 유머러스하면서도 감동적인 모험 이야기입니다.",
+    "language": "de"
+  },
+  {
+    "title": "Mr Stink",
+    "author": "David Walliams",
+    "publisher": "HarperCollins Children's Books",
+    "description": "데이비드 월리엄스의 아동 소설 'Mr Stink'로, 한 소녀와 노숙자 남성 사이의 우정을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Gangsta Granny",
+    "author": "David Walliams",
+    "publisher": "HarperCollins Children's Books",
+    "description": "데이비드 월리엄스의 아동 소설 'Gangsta Granny'로, 평범해 보이는 할머니가 사실 국제적인 보석 도둑이라는 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "The World's Worst Children",
+    "author": "David Walliams",
+    "publisher": "HarperCollins Children's Books",
+    "description": "데이비드 월리엄스의 아동 소설 'The World's Worst Children' 시리즈 중 하나로, 개성 넘치는 나쁜 아이들의 이야기를 유머러스하게 그립니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Midnight Gang",
+    "author": "David Walliams",
+    "publisher": "HarperCollins Children's Books",
+    "description": "데이비드 월리엄스의 아동 소설 'The Midnight Gang'으로, 병원에 입원한 아이들이 한밤중에 모험을 떠나는 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Beast of Buckingham Palace",
+    "author": "David Walliams",
+    "publisher": "HarperCollins Children's Books",
+    "description": "데이비드 월리엄스의 아동 소설 'The Beast of Buckingham Palace'로, 미래의 런던과 버킹엄 궁전을 배경으로 한 판타지 모험 이야기입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Boy in a Dress",
+    "author": "David Walliams",
+    "publisher": "HarperCollins Children's Books",
+    "description": "데이비드 월리엄스의 첫 아동 소설 'The Boy in the Dress'로, 치마 입기를 좋아하는 소년의 이야기를 통해 개성과 용기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Demon Dentist",
+    "author": "David Walliams",
+    "publisher": "HarperCollins Children's Books",
+    "description": "데이비드 월리엄스의 아동 소설 'Demon Dentist'로, 마을에 새로 온 수상한 치과의사에 대한 공포스럽고 유머러스한 이야기입니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Ice Monster",
+    "author": "David Walliams",
+    "publisher": "HarperCollins Children's Books",
+    "description": "데이비드 월리엄스의 아동 소설 'The Ice Monster'로, 런던에서 발견된 얼음 괴물과 한 소녀의 모험을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Percy Jackson Last Olympian",
+    "author": "Rick Riordan",
+    "publisher": "미상",
+    "description": "릭 라이어던의 '퍼시 잭슨과 올림포스의 신들' 시리즈 중 '마지막 올림포스 신'으로, 퍼시 잭슨의 마지막 모험을 다룬 판타지 소설입니다.",
+    "language": "en"
+  },
+  {
+    "title": "THE SPY WHO LOVED DINNERS",
+    "author": "PAMELA BUTCHART",
+    "publisher": "미상",
+    "description": "파멜라 부차트의 아동 소설로, 스파이와 관련된 유머러스한 이야기를 다룰 것으로 추정됩니다.",
+    "language": "en"
+  },
+  {
+    "title": "LUNCH MONEY",
+    "author": "Andrew Clements",
+    "publisher": "Atheneum Books for Young Readers",
+    "description": "앤드류 클레멘츠의 아동 소설로, 돈을 버는 데 관심이 많은 두 아이의 경쟁과 우정을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Wizarding for Beginners",
+    "author": "Elys Dolan",
+    "publisher": "Oxford University Press",
+    "description": "마법 세계 입문자를 위한 책으로, 두 친구가 마법사 길드에 잠입하여 친구들을 구하고 사악한 마법사를 막는 이야기를 다룬, 유머러스한 그림 소설입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Endlich Wein verstehen",
+    "author": "Madelyne Meyer",
+    "publisher": "AT Verlag",
+    "description": "와인 초보자들을 위해 와인 지식을 유머러스하고 이해하기 쉽게 전달하는 책입니다. 품종, 재배 지역, 품질, 테루아 등 와인에 대한 주요 주제를 다룹니다.",
+    "language": "de"
+  },
+
+  {
+    "title": "360° PARIS",
+    "author": "Nick Wood",
+    "publisher": "teNeues",
+    "description": "파리 도시를 360도로 보여주는 사진집 또는 가이드북입니다.",
+    "language": "en"
+  },
+  {
+    "title": "360° LONDRES",
+    "author": "Nick Wood",
+    "publisher": "teNeues",
+    "description": "런던 도시를 360도로 보여주는 사진집 또는 가이드북 프랑스어판입니다.",
+    "language": "fr"
+  },
+  {
+    "title": "Pablo Picasso",
+    "author": "Carsten Peter Warncke",
+    "publisher": "TASCHEN",
+    "description": "파블로 피카소에 대한 카스텐 페터 바른케의 예술 서적입니다.",
+    "language": "en"
+  },
+  {
+    "title": "CUBA ON THE VERGE",
+    "author": "Debra A. McCoy et al.",
+    "publisher": "BULFINCH",
+    "description": "쿠바의 현 상황에 대한 사진집 또는 탐사 보도 서적입니다.",
+    "language": "en"
+  },
+  {
+    "title": "ARTEMIS FOWL",
+    "author": "Eoin Colfer",
+    "publisher": "Disney",
+    "description": "이오인 콜퍼의 아르테미스 파울 시리즈 첫 권으로, 12세 천재 악당 아르테미스 파울이 요정들과 대결하는 판타지 소설입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter Quidditch Through The Ages",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury Publishing Plc",
+    "description": "J.K. 롤링의 해리포터 스핀오프 작품으로, 퀴디치의 역사와 규칙에 대해 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter The Tales of Beedle The Bard",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury Publishing",
+    "description": "J.K. 롤링의 해리포터 스핀오프 작품으로, 호그와트 마법사 세계의 동화들을 모아놓은 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter Fantastic Beasts And Where To Find Them",
+    "author": "J.K. Rowling",
+    "publisher": "Scholastic, Incorporated",
+    "description": "J.K. 롤링의 해리포터 스핀오프 작품으로, 마법 생물들에 대한 내용을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Adventures of CAPTAIN UNDERPANTS",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "데이브 필키의 '캡틴 언더팬츠' 시리즈 첫 권으로, 두 장난꾸러기 친구가 교장 선생님을 최면에 걸어 슈퍼히어로로 변신시키는 이야기입니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Attack of the Talking Toilets",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 말하는 변기들과의 대결을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Invasion of the Incredibly Naughty Cafeteria Ladies from Outer Space",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 외계에서 온 말썽꾸러기 급식 아주머니들과의 싸움을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Perilous Plot of Professor Poopypants",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 응가바지 교수와의 위험한 음모를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Wrath of the Wicked Wedgie Woman",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 짓궂은 웨지우먼의 분노를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Big, Bad Battle of the Bionic Booger Boy Part 1",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 거대한 코딱지 로봇 소년과의 큰 전투 1부를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Big, Bad Battle of the Bionic Booger Boy Part 2",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 거대한 코딱지 로봇 소년과의 큰 전투 2부를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Preposterous Plight of the Purple Potty People",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 보라색 변기 사람들의 엉뚱한 곤경을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Return of Tippy Tinkletrousers",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 팁피 팅클트라우저스의 귀환을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Revolting Revenge of the Radioactive Robo-Boxers",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 방사능 로봇 복서들의 역겨운 복수를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Tyrannical Retaliation of the Turbo Toilet 2000",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 터보 변기 2000의 폭군적인 보복을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Saga of Sir Stinks-A-Lot",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 스팅크 어 랏 경의 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "CAPTAIN UNDERPANTS and the Sensational Story of Sir Stinks-A-Lot",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "'캡틴 언더팬츠' 시리즈 중 하나로, 스팅크 어 랏 경의 놀라운 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Ricky Ricotta's Mighty Robot vs. The Mutant Mosquitoes From Mercury",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic US",
+    "description": "데이브 필키의 '리키 리코타의 강력한 로봇' 시리즈 중 하나로, 로봇과 소년이 수성에서 온 돌연변이 모기들과 싸우는 이야기입니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Adventures of SUPER DIAPER BABY",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "데이브 필키의 '슈퍼 기저귀 아기' 시리즈 중 하나로, 슈퍼 파워를 가진 아기의 모험을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "PILKEY - DOG MAN",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "데이브 필키의 '도그 맨' 시리즈 중 하나로, 개와 경찰이 합쳐진 캐릭터의 유머러스한 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "프라하의 묘지 1",
+    "author": "움베르토 에코",
+    "publisher": "열린책들",
+    "description": "움베르토 에코의 장편소설 '프라하의 묘지'의 첫 번째 권입니다.",
+    "language": "ko"
+  },
+  {
+    "title": "프라하의 묘지 2",
+    "author": "움베르토 에코",
+    "publisher": "열린책들",
+    "description": "움베르토 에코의 장편소설 '프라하의 묘지'의 두 번째 권입니다.",
+    "language": "ko"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury",
+    "description": "해리 포터 시리즈의 첫 번째 책으로, 해리 포터가 마법 세계에 발을 들이는 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury",
+    "description": "해리 포터 시리즈의 두 번째 책으로, 호그와트의 비밀의 방에 대한 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury",
+    "description": "해리 포터 시리즈의 세 번째 책으로, 시리우스 블랙과 아즈카반의 죄수에 대한 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury",
+    "description": "해리 포터 시리즈의 네 번째 책으로, 트리위저드 대회와 볼드모트의 귀환에 대한 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury",
+    "description": "해리 포터 시리즈의 다섯 번째 책으로, 불사조 기사단과 볼드모트와의 전쟁 준비에 대한 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury",
+    "description": "해리 포터 시리즈의 여섯 번째 책으로, 볼드모트의 과거와 덤블도어의 죽음에 대한 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury",
+    "description": "해리 포터 시리즈의 일곱 번째이자 마지막 책으로, 볼드모트와의 최종 대결과 호크룩스 파괴에 대한 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter and the Cursed Child Parts One and Two",
+    "author": "J.K. Rowling, John Tiffany, Jack Thorne",
+    "publisher": "Sphere",
+    "description": "해리 포터 시리즈의 후속작으로, 해리와 친구들의 자녀 세대의 이야기를 다룬 연극 대본입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "Rowling",
+    "publisher": "Scholastic",
+    "description": "해리 포터 시리즈의 두 번째 책의 다른 판본입니다.",
+    "language": "en"
+  },
+  {
+    "title": "나미야 잡화점의 기적",
+    "author": "히가시노 게이고",
+    "publisher": "현대문학",
+    "description": "히가시노 게이고의 장편소설로, 고민 상담을 해주는 신비로운 잡화점에서 벌어지는 이야기입니다.",
+    "language": "ko"
+  },
+  {
+    "title": "Brain Games for clever kids",
+    "author": "Gareth Moore",
+    "publisher": "Buster Books",
+    "description": "아이들의 두뇌 발달을 위한 다양한 퍼즐과 게임이 담긴 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Dog Man: Unleashed",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "데이브 필키의 인기 시리즈 '도그 맨'의 두 번째 책입니다. 인간과 개의 혼합 영웅 도그 맨의 유쾌한 모험을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Dog Man: A Tale of Two Kitties",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "데이브 필키의 인기 시리즈 '도그 맨'의 세 번째 책입니다. 두 고양이와 관련된 도그 맨의 모험을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Dog Man and Cat Kid",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "데이브 필키의 인기 시리즈 '도그 맨'의 네 번째 책입니다. 도그 맨과 캣 키드의 모험을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Dog Man: Lord of the Fleas",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "데이브 필키의 인기 시리즈 '도그 맨'의 다섯 번째 책입니다. 벼룩의 군주와 맞서는 도그 맨의 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Dog Man: Brawl of the Wild",
+    "author": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "데이브 필키의 인기 시리즈 '도그 맨'의 여섯 번째 책입니다. 야생에서의 난투극을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Diary of a Wimpy Kid",
+    "author": "Jeff Kinney",
+    "publisher": "Amulet Books",
+    "description": "제프 키니의 '윔피 키드' 시리즈 첫 번째 책으로, 그레그 헤프리의 일기 형식으로 학교생활과 친구, 가족에 대한 유머러스한 이야기를 담고 있습니다.",
+    "language": "en"
+  },
+  {
+    "title": "Diary of a Wimpy Kid: Dog Days",
+    "author": "Jeff Kinney",
+    "publisher": "Amulet Books",
+    "description": "제프 키니의 '윔피 키드' 시리즈 네 번째 책입니다. 여름 방학 동안의 일들을 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Diary of a Wimpy Kid: The Ugly Truth",
+    "author": "Jeff Kinney",
+    "publisher": "Amulet Books",
+    "description": "제프 키니의 '윔피 키드' 시리즈 다섯 번째 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Tom Gates: Excellent Excuses (and Other Good Stuff)",
+    "author": "Liz Pichon",
+    "publisher": "Scholastic",
+    "description": "리즈 피천의 '톰 게이츠' 시리즈 중 하나로, 톰 게이츠의 기발한 핑계와 학교생활 이야기를 담고 있습니다.",
+    "language": "en"
+  },
+  {
+    "title": "Tom Gates: Everything's Amazing (sort of)",
+    "author": "Liz Pichon",
+    "publisher": "Scholastic",
+    "description": "리즈 피천의 '톰 게이츠' 시리즈 중 하나로, 톰 게이츠의 시시콜콜한 일상과 놀라운 일들을 담고 있습니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Magic School Bus and the Science Fair Expedition",
+    "author": "Joanna Cole",
+    "publisher": "Scholastic",
+    "description": "마법의 버스를 타고 과학 박람회로 떠나는 미스 프리즐 선생님과 아이들의 신나는 과학 탐험 이야기입니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Riddle of the Sphinx: Puzzles from Ancient Egypt",
+    "author": "Tim Dedopulos",
+    "publisher": "Welbeck Publishing Group / Carlton Books",
+    "description": "고대 이집트에서 영감을 받은 수수께끼와 퍼즐이 가득한 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Rettet die Geparde!",
+    "author": "Renate Ahrens",
+    "publisher": "Rowohlt Taschenbuch / Fischer Sauerländer",
+    "description": "독일-영어 어린이 탐정 소설 시리즈의 첫 번째 책으로, 케이프타운에서 치타 밀수 조직을 쫓는 니클라스와 레아의 모험을 다룹니다.",
+    "language": "de"
+  },
+  {
+    "title": "Die unendliche Geschichte",
+    "author": "Michael Ende",
+    "publisher": "Thienemann Verlag",
+    "description": "독일 작가 미하엘 엔데의 판타지 소설로, 환상의 세계 '판타지아'를 구하는 소년 바스티안의 이야기를 다룹니다.",
+    "language": "de"
+  },
+  {
+    "title": "간단 종이 접기",
+    "author": "김수연",
+    "publisher": "알 수 없음 (주부의벗사 관련 출판사로 추정)",
+    "description": "간단하게 따라 할 수 있는 종이접기 방법을 소개하는 책입니다.",
+    "language": "ko"
+  },
+  {
+    "title": "세종대왕",
+    "author": "알 수 없음 (어린이 역사책으로 추정)",
+    "publisher": "알 수 없음",
+    "description": "조선 시대 세종대왕의 업적과 생애를 다룬 책으로 추정됩니다.",
+    "language": "ko"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "publisher": "Sterling",
+    "description": "허먼 멜빌의 고전 소설로, 에이허브 선장이 복수심에 불타 흰 고래 모비딕을 쫓는 이야기를 다룹니다.",
+    "language": "en"
+  },
+  {
+    "title": "Mythen der Menschheit Götter und Helden des Nordens",
+    "author": "알 수 없음",
+    "publisher": "Time Life Books",
+    "description": "북유럽 신화의 신들과 영웅들을 다룬 책으로 추정됩니다.",
+    "language": "de"
+  },
+  {
+    "title": "3-D EXPLORER: RAINFOREST",
+    "author": "Jen Green",
+    "publisher": "Two-Can",
+    "description": "열대우림에 대한 입체 탐험 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "3-D EXPLORER: OCEANS",
+    "author": "Jen Green",
+    "publisher": "Two-Can",
+    "description": "바다에 대한 입체 탐험 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "LEGO STAR WARS The Visual Dictionary",
+    "author": "Simon Beecroft",
+    "publisher": "DK",
+    "description": "레고 스타워즈 미니피겨, 차량, 세트 등에 대한 시각 자료 사전입니다.",
+    "language": "en"
+  },
+  {
+    "title": "LEGO Star Wars: The Visual Dictionary - New Edition",
+    "author": "Simon Beecroft",
+    "publisher": "DK",
+    "description": "레고 스타워즈 비주얼 사전의 개정판입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Astronomy",
+    "author": "Carole Stott",
+    "publisher": "DK",
+    "description": "천문학에 대한 포괄적인 정보를 담고 있는 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Storybook Collection",
+    "author": "여러 작가",
+    "publisher": "알 수 없음",
+    "description": "다양한 이야기들이 수록된 동화책 모음집입니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Art of Hergé, Inventor of Tintin, Vol. 1: 1907-1937",
+    "author": "Philippe Goddin",
+    "publisher": "Farrar, Straus and Giroux",
+    "description": "땡땡의 모험의 작가 에르제의 예술 세계를 다룬 책의 1권입니다.",
+    "language": "en"
+  },
+  {
+    "title": "THE ART OF HERGÉ, INVENTOR OF TINTIN, Vol. 2: 1937-1949",
+    "author": "Philippe Goddin",
+    "publisher": "Farrar, Straus and Giroux",
+    "description": "땡땡의 모험의 작가 에르제의 예술 세계를 다룬 책의 2권입니다.",
+    "language": "en"
+  },
+  {
+    "title": "The Art of Hergé, Inventor of Tintin, Vol. 3: 1950-1983",
+    "author": "Philippe Goddin",
+    "publisher": "Farrar, Straus and Giroux",
+    "description": "땡땡의 모험의 작가 에르제의 예술 세계를 다룬 책의 3권입니다.",
+    "language": "en"
+  },
+  {
+    "title": "STAR WARS: A COLLECTOR'S EDITION 2013",
+    "author": "알 수 없음",
+    "publisher": "알 수 없음",
+    "description": "스타워즈 관련 소장판 책으로 2013년 발행되었습니다.",
+    "language": "en"
+  },
+  {
+    "title": "MARVEL AVENGERS THE ULTIMATE CHARACTER GUIDE",
+    "author": "DK",
+    "publisher": "DK",
+    "description": "마블 어벤져스 캐릭터들에 대한 궁극적인 가이드북입니다.",
+    "language": "en"
+  },
+  {
+    "title": "THE ULTIMATE CHARACTER GUIDE: STAR WARS",
+    "author": "DK",
+    "publisher": "DK",
+    "description": "스타워즈 캐릭터들에 대한 궁극적인 가이드북입니다.",
+    "language": "en"
+  },
+  {
+    "title": "MARVEL ULTIMATE SPIDER-MAN",
+    "author": "알 수 없음",
+    "publisher": "DK",
+    "description": "마블 얼티밋 스파이더맨 관련 책입니다.",
+    "language": "en"
+  },
+  {
+    "title": "Müll: Alles über die lästigste Sache der Welt",
+    "author": "Gerda Raidt",
+    "publisher": "Beltz & Gelberg",
+    "description": "쓰레기 문제에 대해 어린이들이 이해하기 쉽게 설명하고, 환경 보호를 위한 행동을 독려하는 책입니다.",
+    "language": "de"
+  }
+]

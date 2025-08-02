@@ -30,6 +30,7 @@ export default function App() {
             <th className="py-2 px-4 text-left">저자</th>
             <th className="py-2 px-4 text-left">출판사</th>
             <th className="py-2 px-4 text-left">설명</th>
+            <th className="py-2 px-4 text-left">언어</th> {/* language 컬럼 추가 */}
           </tr>
         </thead>
         <tbody>
@@ -39,6 +40,7 @@ export default function App() {
               <td className="py-2 px-4">{book.author}</td>
               <td className="py-2 px-4">{book.publisher}</td>
               <td className="py-2 px-4">{book.description}</td>
+              <td className="py-2 px-4">{book.language}</td> {/* language 값 출력 */}
             </tr>
           ))}
           {filteredBooks.length === 0 && (
