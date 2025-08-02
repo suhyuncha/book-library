@@ -1,5 +1,5 @@
 import { useState } from "react";
-import booksData from "./book-list.json";
+import booksData from "./merged-books.json"; // 변경된 파일 사용
 
 export default function App() {
   const [query, setQuery] = useState("");
@@ -29,7 +29,7 @@ export default function App() {
             <th className="py-2 px-4 text-left">제목</th>
             <th className="py-2 px-4 text-left">저자</th>
             <th className="py-2 px-4 text-left">출판사</th>
-            <th className="py-2 px-4 text-left">설명</th> {/* 설명 열 추가 */}
+            <th className="py-2 px-4 text-left">설명</th>
           </tr>
         </thead>
         <tbody>
@@ -38,7 +38,7 @@ export default function App() {
               <td className="py-2 px-4">{book.title}</td>
               <td className="py-2 px-4">{book.author}</td>
               <td className="py-2 px-4">{book.publisher}</td>
-              <td className="py-2 px-4">{book.description}</td> {/* 설명 값 출력 */}
+              <td className="py-2 px-4">{book.description}</td>
             </tr>
           ))}
           {filteredBooks.length === 0 && (
